@@ -1,4 +1,4 @@
-# My Visulization
+# My Tableau Visulization
 
 > Presented by Yijun Yang
 
