@@ -3,7 +3,7 @@
 > Presented by Yijun Yang
 
 ## 1. View all of them
-To see all the visulization using Tableau and Tableau Perp, just [Click Here](https://public.tableau.com/app/profile/yijun5426)
+To see all the visulization using Tableau and Tableau Perp, just [Click Here](https://public.tableau.com/app/profile/yijun5426).
 
 ## 2. View by Interest
 
