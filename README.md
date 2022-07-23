@@ -15,7 +15,7 @@ To see all the visulization using Tableau and Tableau Perp, just [Click Here](ht
 
 ### [EU Market Overview 2011-2014 & Forecast on selected countries](https://public.tableau.com/app/profile/yijun5426/viz/EUMarketOverview2011-2014Forecast/EUMarketOverview)
 
-### [London Bus Safety on selected year & month](https://public.tableau.com/app/profile/yijun5426/viz/LondonBusSafetyVis/CustomizedLodonBusSafety)
+### [London Bus Safety on selected year & quarter](https://public.tableau.com/app/profile/yijun5426/viz/LondonBusSafetyVis/CustomizedLodonBusSafety)
 
 ### [US College Loan by Schools](https://public.tableau.com/app/profile/yijun5426/viz/USCollegeLoanbySchools/School)
 ### [US College Loan by States](https://public.tableau.com/app/profile/yijun5426/viz/USCollegeLoanbyStates/State)
